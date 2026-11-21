@@ -1,0 +1,24 @@
+[submodule "aquariumcontrol-core"]
+	path = aquariumcontrol-core
+	url = https://github.com/aquariumcontrol/aquariumcontrol-core.git
+[submodule "aquariumcontrol-database"]
+	path = aquariumcontrol-database
+	url = https://github.com/aquariumcontrol/aquariumcontrol-database.git
+[submodule "aquariumcontrol-api"]
+	path = aquariumcontrol-api
+	url = https://github.com/aquariumcontrol/aquariumcontrol-api.git
+[submodule "aquariumcontrol-website"]
+	path = aquariumcontrol-website
+	url = https://github.com/aquariumcontrol/aquariumcontrol-website.git
+[submodule "aquariumcontrol-ios"]
+	path = aquariumcontrol-ios
+	url = https://github.com/aquariumcontrol/aquariumcontrol-ios.git
+[submodule "aquariumcontrol-relayactuator"]
+	path = aquariumcontrol-relayactuator
+	url = https://github.com/aquariumcontrol/aquariumcontrol-relayactuator.git
+[submodule "aquariumcontrol-debian"]
+	path = aquariumcontrol-debian
+	url = https://github.com/aquariumcontrol/aquariumcontrol-debian.git
+[submodule "aquariumcontrol-android"]
+	path = aquariumcontrol-android
+	url = https://github.com/aquariumcontrol/aquariumcontrol-android.git
